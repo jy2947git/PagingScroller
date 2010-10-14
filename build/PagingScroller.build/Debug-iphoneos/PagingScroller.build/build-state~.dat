@@ -1,0 +1,596 @@
+TPagingScroller
+v7
+r0
+t308778892.713247
+cCheck dependencies
+cCpResource build/Debug-iphoneos/PagingScroller.app/ResourceRules.plist /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/Info.plist PagingScroller-Info.plist
+cCompileXIB /Users/jyou00/Documents/PagingScroller/MainWindow.xib
+cCompileXIB /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib
+cCompileXIB /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.xib
+cProcessPCH /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch.gch PagingScroller_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch.gch PagingScroller_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/main.o /Users/jyou00/Documents/PagingScroller/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerAppDelegate.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollViewController.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PageView.o /Users/jyou00/Documents/PagingScroller/Classes/PageView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerView.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/DemoViewController.o /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/main.o /Users/jyou00/Documents/PagingScroller/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller normal armv6
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerAppDelegate.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollViewController.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PageView.o /Users/jyou00/Documents/PagingScroller/Classes/PageView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerView.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/DemoViewController.o /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller normal armv7
+cCreateUniversalBinary /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller normal "armv6 armv7"
+cGenerateDSYMFile /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app.dSYM /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller
+cProcessProductPackaging "/Users/jyou00/Library/MobileDevice/Provisioning Profiles/95EA30EF-567B-4116-A6E7-B78E3DFA8B3E.mobileprovision" /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/embedded.mobileprovision
+cTouch /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app
+cProcessProductPackaging /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller.xcent
+cCodeSign /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app
+
+N/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.h
+c000000004CB757CD0000000000000229
+t1287083981
+s553
+i<UIKit/UIKit.h>
+i"PagingScrollerView.h"
+
+N/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m
+c000000004CB75D260000000000000E17
+t1287085350
+s3607
+i"DemoViewController.h"
+i"PagingScrollerView.h"
+i"PageView.h"
+
+N/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.xib
+c000000004CB759100000000000004B2B
+t1287084304
+s19243
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PageView.h
+c000000004CB7347600000000000001AB
+t1287074934
+s427
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PageView.m
+c000000004CB75E4300000000000007CF
+t1287085635
+s1999
+i"PageView.h"
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.h
+c000000004CB742310000000000000512
+t1287078449
+s1298
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m
+c000000004CB742310000000000001747
+t1287078449
+s5959
+i"PagingScrollViewController.h"
+i"PageView.h"
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib
+c000000004CB736FC000000000000533E
+t1287075580
+s21310
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.h
+c000000004CB757FC00000000000001C5
+t1287084028
+s453
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m
+c000000004CB757E40000000000000AC0
+t1287084004
+s2752
+i"PagingScrollerAppDelegate.h"
+i"DemoViewController.h"
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.h
+c000000004CB759E50000000000000522
+t1287084517
+s1314
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m
+c000000004CB75EDD000000000000178E
+t1287085789
+s6030
+i"PagingScrollerView.h"
+i"PageView.h"
+
+N/Users/jyou00/Documents/PagingScroller/MainWindow.xib
+c000000004CB7246D000000000000212B
+t1287070829
+s8491
+
+N/Users/jyou00/Documents/PagingScroller/PagingScroller_Prefix.pch
+c000000004CB7246D00000000000000C5
+t1287070829
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app
+t1287086092
+s408
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app.dSYM
+t1287086092
+s102
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/DemoViewController.nib
+t1287086090
+s1264
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/Info.plist
+t1287086090
+s752
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/MainWindow.nib
+t1287086090
+s991
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScrollViewController.nib
+t1287086090
+s1153
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller
+t1287086092
+s101000
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PkgInfo
+t1287086090
+s8
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/ResourceRules.plist
+t1287086090
+s485
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/embedded.mobileprovision
+t1287086092
+s25483
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/DemoViewController.o
+t1287086092
+s49692
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PageView.o
+t1287086091
+s45004
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollViewController.o
+t1287086091
+s59676
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller
+t1287086092
+s48192
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller.LinkFileList
+c000000004CB760090000000000000357
+t1287086089
+s855
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerAppDelegate.o
+t1287086091
+s52256
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerView.o
+t1287086092
+s62272
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/main.o
+t1287086091
+s6504
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/DemoViewController.o
+t1287086092
+s49328
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PageView.o
+t1287086092
+s44560
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollViewController.o
+t1287086092
+s58624
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller
+t1287086092
+s47752
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller.LinkFileList
+c000000004CB760090000000000000357
+t1287086089
+s855
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerAppDelegate.o
+t1287086092
+s52160
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerView.o
+t1287086092
+s61076
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/main.o
+t1287086092
+s6488
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller.xcent
+t1287086092
+s434
+
+N/Users/jyou00/Documents/PagingScroller/main.m
+c000000004CB7246D000000000000016F
+t1287070829
+s367
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Library/MobileDevice/Provisioning Profiles/95EA30EF-567B-4116-A6E7-B78E3DFA8B3E.mobileprovision
+c000000004C87B40D000000000000638B
+t1283961869
+s25483
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004C9D688D0000000000000110
+t1285384333
+s272
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004C997C6500000000000001A7
+t1285127269
+s423
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004C997C6400000000000001E5
+t1285127268
+s485
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C999AC200000000003532C0
+t1285135042
+s3486400
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C999BC600000000003E1F20
+t1285135302
+s4071200
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C999BAA0000000000001466
+t1285135274
+s5222
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C99AA0A0000000000000AA1
+t1285138954
+s2721
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C99AA8F0000000000C675F0
+t1285139087
+s13006320
+
+N/var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch.gch
+t1287086091
+s9979608
+
+N/var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch.gch
+t1287086091
+s10442456
+
+NPagingScroller-Info.plist
+c000000004CB7246D000000000000038D
+t1287070829
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308778889#308778890#0(0"0(0#1#0"8693292800#0"0#
+
+CCodeSign /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app
+s308778892.536867
+e308778892.713207
+r1
+xCodeSign
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app
+lSLF07#2@48"CodeSign build/Debug-iphoneos/PagingScroller.app308778892#308778892#0(0"0(0#0#78"/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app8697127168#725"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Junqiang You (VFR95VL94K)" --resource-rules=/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/ResourceRules.plist --entitlements /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller.xcent /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/DemoViewController.o /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308778891.987147
+e308778892.085541
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/DemoViewController.o
+x/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m308778891#308778892#0(0"0(0#0#67"/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m8693261344#1962"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv6 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/DemoViewController.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PageView.o /Users/jyou00/Documents/PagingScroller/Classes/PageView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308778891.825681
+e308778891.978055
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PageView.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PageView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jyou00/Documents/PagingScroller/Classes/PageView.m308778891#308778891#0(0"0(0#0#57"/Users/jyou00/Documents/PagingScroller/Classes/PageView.m8703733664#1942"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv6 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PageView.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PageView.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollViewController.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308778891.823046
+e308778891.987062
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollViewController.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m308778891#308778892#0(0"0(0#0#75"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m8641743104#1978"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv6 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollViewController.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerAppDelegate.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308778891.729001
+e308778891.825580
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerAppDelegate.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m308778891#308778891#0(0"0(0#0#74"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m8706092512#1976"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv6 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerAppDelegate.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerView.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308778891.985506
+e308778892.116244
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerView.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m308778891#308778892#0(0"0(0#0#67"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m8698899744#1962"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv6 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScrollerView.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/main.o /Users/jyou00/Documents/PagingScroller/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308778891.727593
+e308778891.822936
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/main.o
+x/Users/jyou00/Documents/PagingScroller/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jyou00/Documents/PagingScroller/main.m308778891#308778891#0(0"0(0#0#45"/Users/jyou00/Documents/PagingScroller/main.m8697917216#1926"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv6 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/main.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/DemoViewController.o /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308778892.352803
+e308778892.440631
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/DemoViewController.o
+x/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m308778892#308778892#0(0"0(0#0#67"/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m8692927936#1962"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv7 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/DemoViewController.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PageView.o /Users/jyou00/Documents/PagingScroller/Classes/PageView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308778892.254801
+e308778892.352700
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PageView.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PageView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jyou00/Documents/PagingScroller/Classes/PageView.m308778892#308778892#0(0"0(0#0#57"/Users/jyou00/Documents/PagingScroller/Classes/PageView.m8701634848#1942"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv7 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PageView.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PageView.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollViewController.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308778892.183851
+e308778892.316885
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollViewController.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m308778892#308778892#0(0"0(0#0#75"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m8676752768#1978"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv7 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollViewController.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerAppDelegate.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308778892.141609
+e308778892.254712
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerAppDelegate.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m308778892#308778892#0(0"0(0#0#74"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m8675614624#1976"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv7 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerAppDelegate.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerView.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308778892.316993
+e308778892.434685
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerView.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m308778892#308778892#0(0"0(0#0#67"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m8693384992#1962"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv7 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerView.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScrollerView.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/main.o /Users/jyou00/Documents/PagingScroller/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308778892.085656
+e308778892.141512
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/main.o
+x/Users/jyou00/Documents/PagingScroller/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jyou00/Documents/PagingScroller/main.m308778892#308778892#0(0"0(0#0#45"/Users/jyou00/Documents/PagingScroller/main.m8687340032#1926"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv7 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/main.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.xib
+s308778890.386476
+e308778890.776662
+r1
+xCompileXIB
+x/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.xib
+lSLF07#2@41"CompileXIB Classes/DemoViewController.xib308778890#308778890#0(0"0(0#0#69"/Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.xib8692053408#629"    cd /Users/jyou00/Documents/PagingScroller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/DemoViewController.nib /Users/jyou00/Documents/PagingScroller/Classes/DemoViewController.xib --sdk /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib
+s308778890.015016
+e308778890.474039
+r1
+xCompileXIB
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib
+lSLF07#2@49"CompileXIB Classes/PagingScrollViewController.xib308778890#308778890#0(0"0(0#0#77"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib8641969120#645"    cd /Users/jyou00/Documents/PagingScroller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScrollViewController.nib /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib --sdk /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/jyou00/Documents/PagingScroller/MainWindow.xib
+s308778890.014295
+e308778890.386386
+r1
+xCompileXIB
+x/Users/jyou00/Documents/PagingScroller/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308778890#308778890#0(0"0(0#0#53"/Users/jyou00/Documents/PagingScroller/MainWindow.xib8657435008#605"    cd /Users/jyou00/Documents/PagingScroller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/MainWindow.nib /Users/jyou00/Documents/PagingScroller/MainWindow.xib --sdk /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/PagingScroller.app/ResourceRules.plist /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s308778890.005186
+e308778890.010968
+r1
+xCpResource
+xbuild/Debug-iphoneos/PagingScroller.app/ResourceRules.plist
+x/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@108"Copy /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist308778890#308778890#0(0"0(0#0#103"/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8675823424#557"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app0#
+
+CCreateUniversalBinary /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller normal "armv6 armv7"
+s308778892.473241
+e308778892.476309
+r1
+xCreateUniversalBinary
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller
+xnormal
+xarmv6 armv7
+lSLF07#2@97"CreateUniversalBinary build/Debug-iphoneos/PagingScroller.app/PagingScroller normal "armv6 armv7"308778892#308778892#0(0"0(0#0#50"/Users/jyou00/Documents/PagingScroller/armv6 armv78680846272#602"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller -output /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller0#
+
+CGenerateDSYMFile /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app.dSYM /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller
+s308778892.476421
+e308778892.518117
+r1
+xGenerateDSYMFile
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app.dSYM
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller
+lSLF07#2@116"GenerateDSYMFile build/Debug-iphoneos/PagingScroller.app.dSYM build/Debug-iphoneos/PagingScroller.app/PagingScroller308778892#308778892#0(0"0(0#0#93"/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller8660525312#425"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/usr/bin/dsymutil /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PagingScroller -o /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app.dSYM0#
+
+CLd /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller normal armv6
+s308778892.116355
+e308778892.183741
+r1
+xLd
+x/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller
+xnormal
+xarmv6
+lSLF07#2@142"Link /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller308778892#308778892#0(0"0(0#0#0"8686988064#957"    cd /Users/jyou00/Documents/PagingScroller    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -filelist /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv6/PagingScroller0#
+
+CLd /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller normal armv7
+s308778892.440726
+e308778892.473128
+r1
+xLd
+x/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller
+xnormal
+xarmv7
+lSLF07#2@142"Link /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller308778892#308778892#0(0"0(0#0#0"8692292480#957"    cd /Users/jyou00/Documents/PagingScroller    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -filelist /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/Objects-normal/armv7/PagingScroller0#
+
+CProcessInfoPlistFile /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/Info.plist PagingScroller-Info.plist
+s308778890.006147
+e308778890.014221
+r1
+xProcessInfoPlistFile
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/Info.plist
+xPagingScroller-Info.plist
+lSLF07#2@33"Process PagingScroller-Info.plist308778890#308778890#0(0"0(0#0#64"/Users/jyou00/Documents/PagingScroller/PagingScroller-Info.plist8675391712#618"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PagingScroller-Info.plist -genpkginfo /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/ResourceRules.plist -o /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/Info.plist0#
+
+CProcessPCH /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch.gch PagingScroller_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308778890.776783
+e308778891.727494
+r1
+xProcessPCH
+x/var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch.gch
+xPagingScroller_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile PagingScroller_Prefix.pch308778890#308778891#0(0"0(0#0#64"/Users/jyou00/Documents/PagingScroller/PagingScroller_Prefix.pch8687304416#1817"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv6 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -c /Users/jyou00/Documents/PagingScroller/PagingScroller_Prefix.pch -o /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-cpexulimtmgqopcovlkhcjqxubpb/PagingScroller_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch.gch PagingScroller_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308778890.777920
+e308778891.712978
+r1
+xProcessPCH
+x/var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch.gch
+xPagingScroller_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile PagingScroller_Prefix.pch308778890#308778891#0(0"0(0#0#64"/Users/jyou00/Documents/PagingScroller/PagingScroller_Prefix.pch8687077024#1817"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources/armv7 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/DerivedSources -c /Users/jyou00/Documents/PagingScroller/PagingScroller_Prefix.pch -o /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-flwzxyuyeygqzkaaqvhsrhhmattu/PagingScroller_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/jyou00/Library/MobileDevice/Provisioning Profiles/95EA30EF-567B-4116-A6E7-B78E3DFA8B3E.mobileprovision" /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/embedded.mobileprovision
+s308778892.518214
+e308778892.519895
+r1
+xProcessProductPackaging
+x/Users/jyou00/Library/MobileDevice/Provisioning Profiles/95EA30EF-567B-4116-A6E7-B78E3DFA8B3E.mobileprovision
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/jyou00/Library/MobileDevice/Provisioning Profiles/95EA30EF-567B-4116-A6E7-B78E3DFA8B3E.mobileprovision" build/Debug-iphoneos/PagingScroller.app/embedded.mobileprovision308778892#308778892#0(0"0(0#0#103"/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/embedded.mobileprovision8703946144#459"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jyou00/Library/MobileDevice/Provisioning Profiles/95EA30EF-567B-4116-A6E7-B78E3DFA8B3E.mobileprovision" -o /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller.xcent
+s308778892.522819
+e308778892.536786
+r1
+xProcessProductPackaging
+x/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller.xcent
+lSLF07#2@210"ProcessProductPackaging /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller.xcent308778892#308778892#0(0"0(0#0#122"/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller.xcent8698185984#495"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphoneos/PagingScroller.build/PagingScroller.xcent0#
+
+CTouch /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app
+s308778892.519956
+e308778892.522741
+r1
+xTouch
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app
+lSLF07#2@84"Touch /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app308778892#308778892#0(0"0(0#0#0"8702566624#299"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneOS.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jyou00/Documents/PagingScroller/build/Debug-iphoneos/PagingScroller.app0#
+

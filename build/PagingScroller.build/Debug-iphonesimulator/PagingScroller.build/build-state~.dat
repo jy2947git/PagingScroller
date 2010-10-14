@@ -1,0 +1,259 @@
+TPagingScroller
+v7
+r0
+t308763843.562576
+cCheck dependencies
+cProcessInfoPlistFile /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/Info.plist PagingScroller-Info.plist
+cCompileXIB /Users/jyou00/Documents/PagingScroller/MainWindow.xib
+cCompileXIB /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib
+cProcessPCH /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-fdvtwikgzetyvkgkmsdbwxvjnoal/PagingScroller_Prefix.pch.gch PagingScroller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/main.o /Users/jyou00/Documents/PagingScroller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollerAppDelegate.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollViewController.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller normal i386
+cGenerateDSYMFile /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app.dSYM /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller
+cTouch /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.h
+c000000004CB7254100000000000001B4
+t1287071041
+s436
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m
+c000000004CB724A300000000000005C0
+t1287070883
+s1472
+i"PagingScrollViewController.h"
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib
+c000000004CB724A40000000000001889
+t1287070884
+s6281
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.h
+c000000004CB7246D000000000000015B
+t1287070829
+s347
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m
+c000000004CB7246D00000000000009E4
+t1287070829
+s2532
+i"PagingScrollerAppDelegate.h"
+
+N/Users/jyou00/Documents/PagingScroller/MainWindow.xib
+c000000004CB7246D000000000000212B
+t1287070829
+s8491
+
+N/Users/jyou00/Documents/PagingScroller/PagingScroller_Prefix.pch
+c000000004CB7246D00000000000000C5
+t1287070829
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app
+t1287071043
+s238
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app.dSYM
+t1287071043
+s102
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/Info.plist
+t1287071041
+s619
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/MainWindow.nib
+t1287071041
+s991
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScrollViewController.nib
+t1287071041
+s764
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller
+t1287071043
+s17240
+
+N/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PkgInfo
+t1287071041
+s8
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollViewController.o
+t1287071043
+s38776
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScroller.LinkFileList
+c000000004CB7254100000000000001C3
+t1287071041
+s451
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollerAppDelegate.o
+t1287071043
+s49632
+
+N/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/main.o
+t1287071043
+s6360
+
+N/Users/jyou00/Documents/PagingScroller/main.m
+c000000004CB7246D000000000000016F
+t1287070829
+s367
+i<UIKit/UIKit.h>
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CACA59A0000000000000110
+t1286383002
+s272
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C99BDBC000000000029B310
+t1285143996
+s2732816
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C99BE55000000000029D5D0
+t1285144149
+s2741712
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C99BE3E0000000000001466
+t1285144126
+s5222
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C99C5250000000000000AA1
+t1285145893
+s2721
+
+N/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C99C5B40000000000744330
+t1285146036
+s7619376
+
+N/var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-fdvtwikgzetyvkgkmsdbwxvjnoal/PagingScroller_Prefix.pch.gch
+t1287071042
+s15445200
+
+NPagingScroller-Info.plist
+c000000004CB7246D000000000000038D
+t1287070829
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308763841#308763841#0(0"0(0#1#0"8677775648#0"0#
+
+CCompileC build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollViewController.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308763843.191054
+e308763843.253111
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollViewController.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m:58: warning: property 'pageingScrollView' requires method '-pageingScrollView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m:58: warning: property 'pageingScrollView' requires the method 'setPageingScrollView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m:58: warning: property 'pageControll' requires method '-pageControll' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m:58: warning: property 'pageControll' requires the method 'setPageControll:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@83"Compile /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m308763843#308763843#0(922"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m:58: warning: property 'pageingScrollView' requires method '-pageingScrollView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m:58: warning: property 'pageingScrollView' requires the method 'setPageingScrollView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m:58: warning: property 'pageControll' requires method '-pageControll' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m:58: warning: property 'pageControll' requires the method 'setPageControll:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@142"Property 'pageingScrollView' requires method '-pageingScrollView' to be defined - use @synthesize, @dynamic or provide a method implementation308763843#0#232#0(6@75"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m308763683#58#0#58#0#0"0(22@149"Property 'pageingScrollView' requires the method 'setPageingScrollView:' to be defined - use @synthesize, @dynamic or provide a method implementation308763843#232#239#0(6@75"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m308763683#58#0#58#0#0"0(22@132"Property 'pageControll' requires method '-pageControll' to be defined - use @synthesize, @dynamic or provide a method implementation308763843#471#222#0(6@75"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m308763683#58#0#58#0#0"0(22@139"Property 'pageControll' requires the method 'setPageControll:' to be defined - use @synthesize, @dynamic or provide a method implementation308763843#693#229#0(6@75"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m308763683#58#0#58#0#0"0(0#0#75"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m8676522880#2168"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/DerivedSources/i386 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-fdvtwikgzetyvkgkmsdbwxvjnoal/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollViewController.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollerAppDelegate.o /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308763843.095365
+e308763843.209520
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollerAppDelegate.o
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m308763843#308763843#0(0"0(0#0#74"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m8677862208#2166"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/DerivedSources/i386 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-fdvtwikgzetyvkgkmsdbwxvjnoal/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollerAppDelegate.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScrollerAppDelegate.o0#
+
+CCompileC build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/main.o /Users/jyou00/Documents/PagingScroller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308763843.094012
+e308763843.190869
+r1
+xCompileC
+xbuild/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/main.o
+x/Users/jyou00/Documents/PagingScroller/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jyou00/Documents/PagingScroller/main.m308763843#308763843#0(0"0(0#0#45"/Users/jyou00/Documents/PagingScroller/main.m8678932000#2116"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/DerivedSources/i386 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/DerivedSources -include /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-fdvtwikgzetyvkgkmsdbwxvjnoal/PagingScroller_Prefix.pch -c /Users/jyou00/Documents/PagingScroller/main.m -o /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib
+s308763841.200309
+e308763841.650027
+r1
+xCompileXIB
+x/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib
+lSLF07#2@49"CompileXIB Classes/PagingScrollViewController.xib308763841#308763841#0(0"0(0#0#77"/Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib8662692896#673"    cd /Users/jyou00/Documents/PagingScroller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScrollViewController.nib /Users/jyou00/Documents/PagingScroller/Classes/PagingScrollViewController.xib --sdk /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jyou00/Documents/PagingScroller/MainWindow.xib
+s308763841.155527
+e308763841.649890
+r1
+xCompileXIB
+x/Users/jyou00/Documents/PagingScroller/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308763841#308763841#0(0"0(0#0#53"/Users/jyou00/Documents/PagingScroller/MainWindow.xib8663438048#633"    cd /Users/jyou00/Documents/PagingScroller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/MainWindow.nib /Users/jyou00/Documents/PagingScroller/MainWindow.xib --sdk /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app.dSYM /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller
+s308763843.496588
+e308763843.544887
+r1
+xGenerateDSYMFile
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app.dSYM
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/PagingScroller.app.dSYM build/Debug-iphonesimulator/PagingScroller.app/PagingScroller308763843#308763843#0(0"0(0#0#100"/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller8665593248#446"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/usr/bin/dsymutil /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller -o /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app.dSYM0#
+
+CLd /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller normal i386
+s308763843.253208
+e308763843.496372
+r1
+xLd
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller
+xnormal
+xi386
+lSLF07#2@105"Link /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller308763843#308763843#0(0"0(0#0#0"8673739200#991"    cd /Users/jyou00/Documents/PagingScroller    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator -filelist /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/Objects-normal/i386/PagingScroller.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PagingScroller0#
+
+CProcessInfoPlistFile /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/Info.plist PagingScroller-Info.plist
+s308763841.149956
+e308763841.155440
+r1
+xProcessInfoPlistFile
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/Info.plist
+xPagingScroller-Info.plist
+lSLF07#2@33"Process PagingScroller-Info.plist308763841#308763841#0(0"0(0#0#64"/Users/jyou00/Documents/PagingScroller/PagingScroller-Info.plist8678472096#528"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PagingScroller-Info.plist -genpkginfo /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app/Info.plist0#
+
+CProcessPCH /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-fdvtwikgzetyvkgkmsdbwxvjnoal/PagingScroller_Prefix.pch.gch PagingScroller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308763841.650126
+e308763843.093729
+r1
+xProcessPCH
+x/var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-fdvtwikgzetyvkgkmsdbwxvjnoal/PagingScroller_Prefix.pch.gch
+xPagingScroller_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile PagingScroller_Prefix.pch308763841#308763843#0(0"0(0#0#64"/Users/jyou00/Documents/PagingScroller/PagingScroller_Prefix.pch8678892352#2001"    cd /Users/jyou00/Documents/PagingScroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-generated-files.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-own-target-headers.hmap -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-all-target-headers.hmap -iquote /Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/PagingScroller-project-headers.hmap -F/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator -I/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/include -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/DerivedSources/i386 -I/Users/jyou00/Documents/PagingScroller/build/PagingScroller.build/Debug-iphonesimulator/PagingScroller.build/DerivedSources -c /Users/jyou00/Documents/PagingScroller/PagingScroller_Prefix.pch -o /var/folders/ez/ezbKvZBPFAiQfvBfHK+7FGjtpis/-Caches-/com.apple.Xcode.737793774/SharedPrecompiledHeaders/PagingScroller_Prefix-fdvtwikgzetyvkgkmsdbwxvjnoal/PagingScroller_Prefix.pch.gch0#
+
+CTouch /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app
+s308763843.544973
+e308763843.562520
+r1
+xTouch
+x/Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app
+lSLF07#2@91"Touch /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app308763843#308763843#0(0"0(0#0#0"8679653984#313"    cd /Users/jyou00/Documents/PagingScroller    setenv PATH "/Users/jyou00/SDK4.2Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/jyou00/SDK4.2Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jyou00/Documents/PagingScroller/build/Debug-iphonesimulator/PagingScroller.app0#
+
